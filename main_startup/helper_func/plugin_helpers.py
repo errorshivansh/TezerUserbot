@@ -1,6 +1,6 @@
 # Copyright (C) 2020-2021 by TeamTezer@Github, < https://github.com/TeamTezer >.
 #
-# This file is part of < https://github.com/TeamTezer/TezerUserBot > project,
+# This file is part of < https://github.com/TeamTezer/TezerUserBot > project, 
 # and is released under the "GNU v3.0 License Agreement".
 # Please see < https://github.com/TeamTezer/blob/master/LICENSE >
 #
